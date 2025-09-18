@@ -1,3 +1,5 @@
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/tarassito/slowly-changing-dimensions-2?quickstart=1)
+
 # Slowly Changing Dimensions (SCD) Type 2
 
 This repository contains experiments and implementations of Slowly Changing Dimensions (SCD) Type 2 using Apache Spark and Delta Lake.
